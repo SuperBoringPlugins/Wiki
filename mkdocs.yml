@@ -16,6 +16,7 @@ theme:
     repo: fontawesome/brands/github
 
 repo_url: https://github.com/SuperBoringPlugins/Wiki
+repo_name: SuperBoringPlugins/Wiki
 
 plugins:
   - search
